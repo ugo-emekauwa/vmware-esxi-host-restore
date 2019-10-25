@@ -1,6 +1,6 @@
 # How-To: Automating a VMware ESXi Host Configuration Restore
 
-The PowerShell script named **automate_esxi_host_restore.ps1** listed in this repository demonstrates how to automate restoring the configuration of a VMware ESXi host.
+The sample PowerShell script named **automate_esxi_host_restore.ps1** listed in this repository demonstrates how to automate restoring the configuration of a VMware ESXi host.
 
 ## Requirements:
   1. Microsoft Windows PowerShell.
